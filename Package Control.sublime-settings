@@ -1,0 +1,19 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_frequency": 24,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"install_missing": false,
+	"installed_packages":
+	[
+		"Babel",
+		"JsPrettier",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"TypeScript"
+	],
+	"submit_usage": false
+}

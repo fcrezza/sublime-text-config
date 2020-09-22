@@ -1,0 +1,8 @@
+{
+	"auto_complete_triggers" : [
+		{"selector": "source.ts", "characters": "."}, 
+		{"selector": "source.js", "characters": "."}
+	],
+	"error_color": "region.pinkish",
+	"error_icon": "dot",
+}

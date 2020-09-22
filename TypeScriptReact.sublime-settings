@@ -1,0 +1,6 @@
+{
+	"auto_complete_triggers" : [
+		{"selector": "source.tsx", "characters": "."},
+		{"selector": "source.js", "characters": "."}
+	]
+}
