@@ -1,16 +1,19 @@
 {
-	"auto_upgrade": false,
+	"auto_upgrade": true,
 	"auto_upgrade_frequency": 24,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
-	"install_missing": false,
+	"install_missing": true,
 	"installed_packages":
 	[
-		"Babel",
+		"Alabaster Color Scheme",
+		"FileIcons Mono",
 		"JsPrettier",
+		"naomi-syntax",
 		"Package Control",
+		"SideBarMenuAdvanced",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"TypeScript"
