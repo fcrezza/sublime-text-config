@@ -8,8 +8,8 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Alabaster Color Scheme/Alabaster Dark.sublime-color-scheme",
 	"enable_inline_error_tips": true,
-	"enable_language_service_for_javascript": false,
 	"font_face": "hack",
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"ActionScript",
